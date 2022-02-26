@@ -17,7 +17,7 @@
         ├── humantocatsndogs.npz        : dataset file
         ├── model.ipynb                 : A python notebook contain the cycleGAN model including training 
         ├── test.py                     : This is used to test files
-        └──README.md                   : Further instructions for task-1
+        └──README.md                    : Further instructions for task-1
     ├── task-2                          : This contains the model to classify birds
         ├── test                        : This are the test images
             ├── 3.jpg                   : An example of a test image
@@ -26,7 +26,7 @@
         ├── test.ipynb                  : python notebook which contains information to test all items
         ├── test.py                     : The file is used to test the model with a single image specified
         ├── train.ipynb                 : This specifies the way in which the model was trained
-        └──README.md                   : Further instructions for task-2
+        └──README.md                    : Further instructions for task-2
     ├── task-3                          : This contains the language model to predict the text 
         ├── h5-model-3.h5               : The model
         ├── poirotInvestigates.txt      : The data being used to train the model
