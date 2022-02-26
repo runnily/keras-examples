@@ -1,7 +1,9 @@
 # CONTENTS
 1. FILES AND EXPLAINATION
 2. USAGE 
+
 ---------------------------------------------------------------------------------------------
+
 ## 1. FILES AND EXPLAINATION
 (1) task-1                      : This contains a cycleGAN model
     .output                     : These are the outputs from the model
@@ -31,7 +33,9 @@
     .train.ipynb                : The training notebook
 
 (4) requirements.txt            : list of libaries needed.
+
 ---------------------------------------------------------------------------------------------
+
 ## USAGE
 
 (1) step 1 (optional)
