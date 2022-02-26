@@ -4,7 +4,7 @@ This corresponds to the task 1 for the coursework.
 ## CONTENTS:
 1. USAGE
 2. FUTHER DETAILS
----------------------------------------------------------------------------------------------
+
 ## 1. USAGE
 
 The images in the test folder contain input images to the model.
@@ -31,7 +31,8 @@ Where we are specifying the use to model "1" along with the input image "default
 output should appear within the output folder.
 
 You can add your own images to test for the model to translate
----------------------------------------------------------------------------------------------
+
 ## 2. FUTHER DETAILS
+
 The model.ipynb contains the code for the model. for details on the other files, refer to 
 "assignment/README.txt" 

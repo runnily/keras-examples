@@ -4,7 +4,7 @@ This corresponds to the task 2 for the coursework.
 ## CONTENTS:
 1. USAGE
 2. FUTHER DETAILS
----------------------------------------------------------------------------------------------
+
 ## 1. USAGE
 
 The images in the test folder contain input images to the model.
@@ -24,8 +24,9 @@ Here we are specifying "3.jpg" the input image. The output should appear on comm
 providing the type of bird species.
 
 To test your own images add your image within "test/"
----------------------------------------------------------------------------------------------
+
 ## 2. FUTHER DETAILS
+
 The train.ipynb includes information of the process of training the model. 
 You can run/look at this notebook to reproduce the same results. 
 
